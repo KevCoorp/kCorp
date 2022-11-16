@@ -1,6 +1,6 @@
 # kCorp-s
 ## Qu'es-ce que kCorp's ?
 
-kCorp's (ou KevCoorp's), est une entreprise ficitve fondée en 2017 puis ayant pris réellement vis en 2022 en tant qu'une team de développeur. Le principale objectif de cette team, est de réaliser des programmes, des jeux, ou des sites ! 
+kCorp (abrégée KevCoorp) est une team de développeur libre crée en 2022 par KevFR.
 
-
+- Notre objectif est de crée des jeux, des programmes ou des sites. 
