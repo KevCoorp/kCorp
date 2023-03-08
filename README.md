@@ -1,6 +1,6 @@
-# kCorp-s
-## Qu'es-ce que kCorp's ?
+# kCorp
+## Qu'es-ce que kCorp ?
 
-kCorp (abrégée KevCoorp) est une team de développeur libre crée en 2022 par KevFR.
+kCorp (ou KevCoorp), est une team de développeur libre fondée en 2019.
 
-- Notre objectif est de crée des jeux, des programmes ou des sites. 
+- Nos objectifs sont de développer des jeux, et contribuer au développement de l'informatique 
