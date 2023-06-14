@@ -1,7 +1,20 @@
 # kCorp
-## Qu'es-ce que kCorp ?
 
-kCorp (aka KevCoorp) est une team de développeur créée en 2021 principalement, passioné par la création de jeux-vidéo
+## Qu'es-ce que la KevCorporation?
 
-- Nos objectifs sont de développer des jeux (rétros, arcade,...)
-- Contribuer au développement du logiciel libre 
+La KevCorporation ou (aka kCorp) est une micro-organisation dont la principale activité est de réaliser des jeux-vidéo. 
+
+## Nos projets
+
+- FireAqua: site internet de la KevCorporation
+- Firespace: un petit space shooter réalisé dans un court délai
+
+## Autres projets 
+
+- OSmockup: https://progressmod95.fandom.com/wiki/KCorp
+
+## ⚠️Informations complémentires
+
+Nos jeux et projets sont totalement gratuits et nous-nous efforçons d'utiliser des outils libres le plus possible. De plus nous n'avons aucun lien avec la Karmine Corp.
+
+kCorp®, 2023
