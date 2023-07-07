@@ -1,8 +1,8 @@
-# kCorp
+# kevCorp
 
 ## Qu'es-ce que la KevCorporation?
 
-La KevCorporation ou (aka kCorp) est une micro-organisation dont la principale activité est de réaliser des jeux-vidéo. 
+La KevCorporation ou (aka kevCorp) est une micro-organisation dont la principale activité est de réaliser des jeux-vidéo. 
 
 ## Nos projets
 
@@ -15,6 +15,6 @@ La KevCorporation ou (aka kCorp) est une micro-organisation dont la principale a
 
 ## ⚠️Informations complémentires
 
-Nos jeux et projets sont totalement gratuits et nous-nous efforçons d'utiliser des outils libres le plus possible. De plus nous n'avons aucun lien avec la Karmine Corp.
+Nos jeux et projets sont totalement gratuits et nous-nous efforçons d'utiliser des outils libres le plus possible.
 
-kCorp®, 2023
+kevCorp®, 2023
