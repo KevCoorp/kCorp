@@ -2,16 +2,12 @@
 
 ## Qu'es-ce que la KevCorporation?
 
-La KevCorporation ou (aka kevCorp) est une micro-organisation dont la principale activité est de réaliser des jeux-vidéo. 
+La KevCorporation (aka kevCorp) est une team de développeur spécialisé dans la création de jeux-vidéo indépendant. 
 
 ## Nos projets
 
 - FireAqua: site internet de la KevCorporation
 - Firespace: un petit space shooter réalisé dans un court délai
-
-## Autres projets 
-
-- OSmockup: https://progressmod95.fandom.com/wiki/KCorp
 
 ## ⚠️Informations complémentires
 
