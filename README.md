@@ -12,5 +12,3 @@ La KevCorporation (aka kevCorp) est une team de développeur spécialisé dans l
 ## ⚠️Informations complémentires
 
 Nos jeux et projets sont totalement gratuits et nous-nous efforçons d'utiliser des outils libres le plus possible.
-
-kevCorp®, 2023
