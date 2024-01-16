@@ -2,12 +2,13 @@
 
 ## Qu'es-ce que la KevCorporation?
 
-La KevCorporation (aka kevCorp) est une team de développeur spécialisé dans la création de jeux-vidéo indépendant. 
+La KevCorporation (aka kevCorp) est une team de développeur dans la création de jeux-vidéo indépendant. 
 
 ## Nos projets
 
-- FireAqua: site internet de la KevCorporation
-- Firespace: un petit space shooter réalisé dans un court délai
+- FireAqua: site internet de la kevCorp
+- Firespace: un petit space shooter
+- Qube Dash: un projet de jeu de plateforme en 2D
 
 ## ⚠️Informations complémentires
 
