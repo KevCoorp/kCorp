@@ -1,15 +1,14 @@
-# kevCorp
+# KevCoorp
 
 ## Qu'es-ce que la KevCorporation?
+La KevCorporation (aka KevCoorp) est une team de développeur indépendante dans l'objectif premier est la conception de jeu-vidéo.
 
-La KevCorporation (aka kevCorp) est une team de développeur dans la création de jeux-vidéo indépendant. 
-
-## Nos projets
-
+## Projets
 - FireAqua: site internet de la kevCorp
-- Firespace: un petit space shooter
-- Qube Dash: un projet de jeu de plateforme en 2D
+- Firespace: un jeu d'arcade de space shooter 
 
-## ⚠️Informations complémentires
+## 🛠️Outils
+- Moteur de jeu: Godot Engine
+- Logiciel de conception graphique: Paint.NET/Aseprite/Adobe Illustrator
+- Logiciel d'effet SFX: Audacity
 
-Nos jeux et projets sont totalement gratuits et nous-nous efforçons d'utiliser des outils libres le plus possible.
