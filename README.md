@@ -1,4 +1,4 @@
-# KevCoorp
+# KevCorp
 
 ## Qu'es-ce que la KevCorporation?
 La KevCorporation (aka KevCoorp) est une petite team de développeur indépendant ayant comme but la conception de jeux-vidéos.
